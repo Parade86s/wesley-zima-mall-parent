@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wesley-zima-pay" />
+        <module name="wesley-zima-common-util" />
+        <module name="wesley-zima-pms-api" />
+        <module name="welsey-zima-job" />
+        <module name="wesley-zima-dictionary" />
+        <module name="wesley-zima-cms-api" />
+        <module name="wesley-zima-oms-api" />
+        <module name="wesley-zima-oms" />
+        <module name="wesley-zima-pms" />
+        <module name="wesley-zima-sms" />
+        <module name="wesley-zima-sms-api" />
+        <module name="wesley-zima-application" />
+        <module name="wesley-zima-ums" />
+        <module name="wesley-zima-generator" />
+        <module name="wesley-zima-cart" />
+        <module name="wesley-zima-portal-web" />
+        <module name="wesley-zima-dictionary-api" />
+        <module name="wesley-zima-ums-api" />
+        <module name="wesley-zima-pay-api" />
+        <module name="wesley-zima-cart-api" />
+        <module name="wesley-zima-cms" />
+        <module name="wesley-zima-common-base" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="untitled" target="8" />
+      <module name="wesley-zima-cart" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="welsey-zima-job" options="-parameters" />
+      <module name="wesley-zima-application" options="-parameters" />
+      <module name="wesley-zima-cart-api" options="-parameters" />
+      <module name="wesley-zima-cms" options="-parameters" />
+      <module name="wesley-zima-cms-api" options="-parameters" />
+      <module name="wesley-zima-common-base" options="-parameters" />
+      <module name="wesley-zima-common-util" options="-parameters" />
+      <module name="wesley-zima-dictionary" options="-parameters" />
+      <module name="wesley-zima-dictionary-api" options="-parameters" />
+      <module name="wesley-zima-generator" options="-parameters" />
+      <module name="wesley-zima-oms" options="-parameters" />
+      <module name="wesley-zima-oms-api" options="-parameters" />
+      <module name="wesley-zima-pay" options="-parameters" />
+      <module name="wesley-zima-pay-api" options="-parameters" />
+      <module name="wesley-zima-pms" options="-parameters" />
+      <module name="wesley-zima-pms-api" options="-parameters" />
+      <module name="wesley-zima-portal-web" options="-parameters" />
+      <module name="wesley-zima-sms" options="-parameters" />
+      <module name="wesley-zima-sms-api" options="-parameters" />
+      <module name="wesley-zima-ums" options="-parameters" />
+      <module name="wesley-zima-ums-api" options="-parameters" />
+    </option>
+  </component>
+</project>
